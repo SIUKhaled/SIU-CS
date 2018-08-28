@@ -1,2 +1,2 @@
 # SIU-CS
-This repository for course CS305
+This repository will be used by student in course CS305 Fall 2018
